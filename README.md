@@ -1,5 +1,5 @@
 # Embed-MedSAM: Embedded Framework for Clinical Medical Image Segment Anything in Resource-Limited Healthcare Regions (Under Review)
-
+The hyperparameters in the training code should be adjusted and optimized according to your specific target dataset. To verify the functionality of the code, we provide a preliminary distilled base model in the ckpts folder.
 ## Getting Started
 ```bash
 pip install -e .
